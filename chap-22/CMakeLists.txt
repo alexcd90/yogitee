@@ -1,0 +1,2 @@
+add_executable(nonblockingserver nonblockingserver.c)
+target_link_libraries(nonblockingserver yogitee)
